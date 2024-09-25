@@ -1,0 +1,10 @@
+# Ignore data and result files
+/data/*.csv
+/results.json
+
+# Ignore environment settings
+*.env
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
